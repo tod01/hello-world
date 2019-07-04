@@ -1,2 +1,2 @@
 # hello-world
-Just another repertory
+Just another repertory to discover Github
